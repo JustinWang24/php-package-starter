@@ -15,7 +15,8 @@
     ],
     "autoload": {
         "psr-4": {
-          "Smartbro\\":"src/"
+          "Smartbro\\PostOffice\\":"src/",
+          "Smartbro\\PostOffice\\tests\\":"tests/"
         }
     },
     "require": {
